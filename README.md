@@ -53,11 +53,12 @@ Activar/desactivar notificaciones - Configurar modo
 offline - Acceder a redes sociales del 
 desarrollador
 ## Capturas de pantalla
-*(Próximamente)*
+https://i.postimg.cc/7hcJyqxf/Screenshot-20260120-083733.png 
+https://i.postimg.cc/XYKqsfyY/Screenshot-20260120-083803.png
 ## Compilación
 ```bash git clone 
-https://github.com/dagazcii/orion-music.git cd 
-orion-music ./gradlew assembleRelease ```
+https://github.com/AnthonyRomero-dev/Orion-music.git 
+cd orion-music ./gradlew assembleRelease ```
 ## Roadmap
 - [ ] Listas de reproducción personalizadas - [ ] 
 Ecualizador integrado - [ ] Widget para pantalla de 
