@@ -53,27 +53,22 @@ Activar/desactivar notificaciones - Configurar modo
 offline - Acceder a redes sociales del 
 desarrollador
 ## Capturas de pantalla
-https://i.postimg.cc/7hcJyqxf/Screenshot-20260120-083733.png 
-https://i.postimg.cc/XYKqsfyY/Screenshot-20260120-083803.png
+<div align="center"> <img 
+  src="https://i.imgur.com/iX0JZGm.png" 
+  alt="Pantalla principal" width="300"/> <img 
+  src="https://i.imgur.com/RHSmI1v.png" 
+  alt="Pantalla de configuración" width="300"/>
+</div>
 ## Compilación
 ```bash git clone 
 https://github.com/AnthonyRomero-dev/Orion-music.git 
-cd orion-music ./gradlew assembleRelease ```
-## Roadmap
-- [ ] Listas de reproducción personalizadas - [ ] 
-Ecualizador integrado - [ ] Widget para pantalla de 
-inicio - [ ] Temporizador de apagado - [ ] 
-Estadísticas de reproducción - [ ] Organización por 
-artista/álbum/género
-## Licencia
-MIT License - Consulta el archivo LICENSE para más 
-detalles
-## Contacto
-- **GitHub**: 
-[@dagazcii](https://github.com/dagazcii) - 
-**Twitter**: 
-[@dagazcii](https://twitter.com/dagazcii) - 
-**Instagram**: 
-[@dagazcii](https://instagram.com/dagazcii) - 
-**Email**: dagazcii@gmail.com ---
+cd orion-music ./gradlew assembleRelease Roadmap [ 
+] Listas de reproducción personalizadas [ ] 
+Ecualizador integrado [ ] Widget para pantalla de 
+inicio [ ] Temporizador de apagado [ ] Estadísticas 
+de reproducción [ ] Organización por 
+artista/álbum/género Licencia MIT License - 
+Consulta el archivo LICENSE para más detalles 
+Contacto GitHub: @dagazcii Twitter: @dagazcii 
+Instagram: @dagazcii Email: dagazcii@gmail.com
 ⭐ Si te gusta el proyecto, dale una estrella
